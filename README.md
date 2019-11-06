@@ -1,5 +1,5 @@
 # fdf
-42 project fdf
+42 project FdF
 
 <img src="https://github.com/Alblfbv/fdf/blob/master/media/intro_display.gif" width="80%">
 
